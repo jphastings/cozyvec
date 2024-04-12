@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/brubsby/cozyvec#readme",
   "devDependencies": {
-    "electron": "^9.4.0",
-    "electron-packager": "^17.1.2"
+    "electron": "^29.3.0",
+    "@electron/packager": "^18.3.2"
   }
 }
